@@ -1,0 +1,23 @@
+/**
+ * Created by gamedevmadeeasy on 12/9/19.
+ */
+
+.THIS .contact-name{
+    font-weight: bold;
+}
+
+.THIS .has-results {
+    color: green;
+}
+
+.THIS .no-results {
+    color: red;
+}
+
+.THIS .results {
+    padding: 10px;
+}
+
+.THIS .search-field {
+    padding: 10px;
+}
